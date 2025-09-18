@@ -16,3 +16,4 @@ This project is inspired by the Apna College tutorial and is perfect for beginne
 - HTML5
 - CSS3
 ## 📂 Project Structure
+<img width="1881" height="620" alt="Screenshot 2025-09-18 112127" src="https://github.com/user-attachments/assets/de9970d4-0548-4d3d-976b-2ea9a2299f72" />
